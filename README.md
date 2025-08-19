@@ -17,28 +17,6 @@ Features a sleek, modern UI with real-time weather updates, interactive radar, w
 
 ---
 
-## 🚀 Screenshots
-
-### 🌤️ Dashboard
-
-![Dashboard](<img width="1920" height="1200" alt="Screenshot 2025-08-19 145641" src="https://github.com/user-attachments/assets/21ef6f7e-3e9c-40da-b09a-88892dc549ab" />
-)
-
-### 📅 7-Day Forecast
-
-![7-Day Forecast](<img width="1920" height="1200" alt="Screenshot 2025-08-19 145858" src="https://github.com/user-attachments/assets/92d98276-7c7d-4c52-af55-74c1fc4ce4ee" />)
-
-
-### Example For Search
-
-![Example](<img width="1920" height="1200" alt="Screenshot 2025-08-19 145810" src="https://github.com/user-attachments/assets/4ced462d-3ae8-416c-a86f-b3875241eb3e" />)
-
-### Example For Geolocation(Using the Button near Search named "Use my location")
-
-![Examplegeo](<img width="1920" height="1200" alt="Screenshot 2025-08-19 145700" src="https://github.com/user-attachments/assets/674114fa-797a-45ed-8fe1-e754054ec9a0" />)
-
----
-
 ## 🛠️ Installation
 
 Clone the repository:
